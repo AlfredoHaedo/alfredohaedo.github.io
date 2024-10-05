@@ -153,6 +153,8 @@ If you look at .rc files on the root directory you can find interesting things, 
 
 Now that we have a live preview of the camera on the pc, you can pipeline Gstreamer on opencv and run your computer vision code, have in mind that the quality of the live preview is not the full quality of the sensor. I've also seen people that modify the camera to attach their own lenses, or maybe you can add heat dissipation or use a bigger battery.
 
+![](/assets/img/camara/live1.png)|![](/assets/img/camara/live2.png)
+
 
         
 
